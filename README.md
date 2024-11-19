@@ -115,4 +115,5 @@ endmodule
 ![Screenshot 2024-11-17 173620](https://github.com/user-attachments/assets/5b883de0-7d77-4c1b-92d1-3039c100c52b)
 
 **Result:**
+
 Thus the Half Adder and Half Subtractor are studied and the truth tables are verified.
